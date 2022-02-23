@@ -34,7 +34,7 @@ You can download the zip file here
 
 ## Screenshots
 
-![teeCoder Shell](https://theozebua.com/assets/img/teecoder-shell.png)
+![teeCoder Shell](https://github.com/theozebua/teecoder-shell/blob/main/teecoder-shell.png)
 
 
 ## License
