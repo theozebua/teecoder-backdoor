@@ -1,44 +1,41 @@
-# teeCoder Sh311
+# TeeCoder ☣ Backdoor
 
-Use this shell for educational purposes.
+Use this backdoor for educational purposes.
 
-Author will not take any responsibility for any damage done by users with this shell.
+Author will not take any responsibility for any damage done by users with this backdoor.
 
   
 ## Installation
 
-You can get this shell by cloning this repository.
+You can get this backdoor by cloning this repository.
 ```bash
-  git clone https://github.com/theozebua/teecoder-shell.git
+$ git clone https://github.com/theozebua/teecoder-backdoor.git
 ```
-
-OR
-
-You can download the zip file here
-[Download](https://github.com/theozebua/teecoder-shell/archive/refs/heads/main.zip)
-
 
 ## Features
 
-- Simple Graphical User Interface (GUI)
-- Rename/Edit/Delete File or Folder
-- Change Permission
-- Upload File
-- Print out :
-  - Uname
-  - Server IP Address
-  - Your IP Address
-  - Server Software
-  - Operating System (OS)
-- Date & Time (Real Time)
+- Directory
+  - Create
+  - Rename
+  - Change Permission
+  - Delete
+- File
+  - Create
+  - Download
+  - Edit
+  - Rename
+  - Change Permission
+  - Delete
 
 ## Screenshots
 
-![teeCoder Shell](https://github.com/theozebua/teecoder-shell/blob/main/teecoder-shell.png)
+![404 Page](https://github.com/theozebua/teecoder-shell/blob/2.x/screenshots/404.png)
+
+![Login Page](https://github.com/theozebua/teecoder-shell/blob/2.x/screenshots/login-page.png)
+
+![Backdoor Page](https://github.com/theozebua/teecoder-shell/blob/2.x/screenshots/backdoor-page.png)
 
 
 ## License
 
-[MIT](https://github.com/theozebua/teecoder-shell/blob/main/LICENSE.md)
-
-  
+[MIT](https://github.com/theozebua/teecoder-shell/blob/2.x/LICENSE)
