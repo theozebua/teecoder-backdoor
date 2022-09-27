@@ -1,21 +1,16 @@
-# teeCoder Sh311
+# TeeCoder ☣ Backdoor
 
-Use this shell for educational purposes.
+Use this backdoor for educational purposes.
 
-Author will not take any responsibility for any damage done by users with this shell.
+Author will not take any responsibility for any damage done by users with this backdoor.
 
   
 ## Installation
 
-You can get this shell by cloning this repository.
+You can get this backdoor by cloning this repository.
 ```bash
-  git clone https://github.com/theozebua/teecoder-shell.git
+  git clone https://github.com/theozebua/teecoder-backdoor.git
 ```
-
-OR
-
-You can download the zip file here
-[Download](https://github.com/theozebua/teecoder-shell/archive/refs/heads/main.zip)
 
 
 ## Features
@@ -34,11 +29,11 @@ You can download the zip file here
 
 ## Screenshots
 
-![teeCoder Shell](https://github.com/theozebua/teecoder-shell/blob/main/teecoder-shell.png)
+![TeeCoder Backdoor](https://github.com/theozebua/teecoder-backdoor/blob/1.x/teecoder-backdoor.png)
 
 
 ## License
 
-[MIT](https://github.com/theozebua/teecoder-shell/blob/main/LICENSE.md)
+[MIT](https://github.com/theozebua/teecoder-backdoor/blob/1.x/LICENSE.md)
 
   
