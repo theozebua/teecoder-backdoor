@@ -29,7 +29,7 @@ You can get this backdoor by cloning this repository.
 
 ## Screenshots
 
-![TeeCoder Backdoor](https://github.com/theozebua/teecoder-backdoor/blob/1.x/teecoder-backdoor.png)
+![TeeCoder Backdoor](https://github.com/theozebua/teecoder-backdoor/blob/1.x/screenshots/teecoder-backdoor.png)
 
 
 ## License
